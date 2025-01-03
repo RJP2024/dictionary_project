@@ -1,7 +1,7 @@
 import React, { useState } from "react";
 import axios from "axios";
 import Results from "./results";
-import Photos from "./photos";
+import Photos from "./photo";
 import "./dictionary.css";
 
 export default function Dictionary(props) {
