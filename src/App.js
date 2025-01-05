@@ -13,7 +13,7 @@ export default function App() {
           <Dictionary defaultKeyword="sunset" />
         </main>
         <footer className="App-footer">
-          <small>Coded by Ruth Jean-Philippe</small>
+          <small>Coded by SheCodes</small>
         </footer>
       </div>
     </div>
