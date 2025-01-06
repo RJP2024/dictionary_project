@@ -24,7 +24,7 @@ export default function App() {
         </a>{" "}
           and{" "}
           <a
-            href="https://splendorous-donut-1c8270.netlify.app">
+            href="https://gilded-cajeta-72012a.netlify.app">
             hosted on Netlify
         </a>
         </footer>
